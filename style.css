@@ -1,0 +1,55 @@
+.one{
+    height:600px;
+    width:700px;
+    background-color:white;
+    border-radius: 8px;
+    border:solid;
+    border-color:rgb(223, 218, 211);
+}
+#one{
+  background-color:white;
+  line-height: normal;
+ 
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin-right: 7px;
+}
+#two{
+    background-color: black;
+    color: white;
+}
+img{
+    width:350px;
+    height:577px;
+    /* border-radius: 30px; */
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-bottom: 0%;
+    float: right;
+    margin-left: 10px;
+    
+}
+h5{
+    color:grey;
+}
+h6{
+    color: grey;
+}
+#six{
+    color:white;
+    background-color: black;
+}
+#for{
+    height:2px;
+}
+#three{
+    height:2px
+}
+#ten{
+    height:20px;
+    width:5px;
+    float: left;
+    margin-right: 10px;
+}
